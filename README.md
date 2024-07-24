@@ -10,3 +10,4 @@ Para desplegar el modelo siga los siguientes pasos:
 5. por último ejecutar el comando para inicializar el localhost: python app.py
 6. Copiar la http://127.0.0.1:5000, en mi caso es este, pero en su caso puede ser diferente, copiar y pegar en el navgeador y puede usar la página web.
 
+Pozo Steven y Ferrin Josué
